@@ -40040,7 +40040,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeproject.cpp" line="+367"/>
         <source>No cmake tool set.</source>
-        <translation>没有cmake工具集</translation>
+        <translation>没有cmake工具集。</translation>
     </message>
 </context>
 <context>
